@@ -1,0 +1,9 @@
+wwwroot\css\style.css
+wwwroot\img\1656784445148595881.png
+wwwroot\img\609f0f72ab0c11eebbcabaf78b676005_upscaled.jfif
+wwwroot\img\giphy.gif
+wwwroot\img\giphy.webp
+wwwroot\img\image_processing20210420-18364-cwl96x.jpg
+wwwroot\img\izobrazhenie_2021-06-18_181225-1140x694.png
+wwwroot\img\Vwhb2QBhfCs.jpg
+wwwroot\index.html
